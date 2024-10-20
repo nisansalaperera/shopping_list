@@ -12,6 +12,7 @@ This is a shared shopping list web application built for the course project. The
 ## Project Architecture
 
 The project is structured into the following tiers and layers:
+![](https://github.com/nisansalaperera/project_1/blob/main/design.jpeg)
 
 ### Three-Tier Architecture:
 1. **Client:** The front-end of the application, providing an interactive interface for users.
