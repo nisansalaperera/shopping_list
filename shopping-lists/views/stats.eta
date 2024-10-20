@@ -1,0 +1,10 @@
+<% layout("./layouts/layout.eta") %>
+<h1>Statistics</h1>
+<ul>
+    <li>Shopping lists:<%= it.listsCount %></li>
+    <li>Shopping list items:<%= it.itemCount %></li>
+</ul>
+
+<div>
+    <a href = "/lists"> Shopping Lists </a>
+</div>
