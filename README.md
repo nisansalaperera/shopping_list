@@ -104,9 +104,3 @@ Execute the test suite using the following command:
 This project is protected under the [The Unlicense](https://choosealicense.com/licenses/unlicense) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/unlicense/) file.
 
 ---
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
