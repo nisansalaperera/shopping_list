@@ -2,6 +2,7 @@
 
 This is a shared shopping list web application built for the course project. The application allows users to create and manage multiple shopping lists, and track items within them. It follows a three-tier architecture (client, server, database) and a layered architecture with four layers (views, controllers, services, database).
 
+Online link : [https://project-1-seme.onrender.com](https://project-1-seme.onrender.com)
 ## Features
 
 - Create new shopping lists
